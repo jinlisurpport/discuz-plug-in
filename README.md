@@ -6,11 +6,11 @@
 
 ## 安装模块
 
-找到「*Discuz!* 管理中心」> 「应用」> 「插件」> 「支付宝(paysapi)」或「支付宝_免挂机(paysapi)」或「微信(paysapi) 」
+找到「*Discuz!* 管理中心」> 「应用」> 「插件」> 「支付宝(jlpay)」或「支付宝_免挂机(jlpay)」或「微信(jlpay) 」
 
 1. 点击 `安装`  
 2. 点击 `启用`
-3. 点击 `设置`，填上 paysapi的 `Uid` `Token`
+3. 点击 `设置`，填上 jlpay的 `Uid` `Token`
 4. 点击 `提交`
 
 
